@@ -11,6 +11,7 @@
   * [Feature Extraction](#Feature-Extraction)
   * [CNN Model](#CNN-Model)
   * [Training the Model](#Training-the-Model)
+* [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
 ## Detection of Emotion from Multiple Speakers in Audio Segment
@@ -116,3 +117,11 @@ model.add(Activation('softmax'))
 * [Download RAVDESS Emotional speech audio dataset ](https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio)
 
 * [2DConvolution.ipynb](https://github.com/SuyashMore/MevonAI-Speech-Emotion-Recognition/blob/master/src/notebooks/2D_Convolution.ipynb) file is used to training the model
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [Speech Emotion Recognition from Saaket Agashe's Github](https://github.com/saa1605/speech-emotion-recognition)
+* [Speech Emotion Recognition with CNN](https://towardsdatascience.com/speech-emotion-recognition-with-convolution-neural-network-1e6bb7130ce3)
+* [MFCCs Tutorial](http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/)
+* [UIS-RNN Fully Supervised Speaker Diarization](https://github.com/google/uis-rnn)
+* [uis-rnn and speaker embedding by vgg-speaker-recognition by taylorlu](https://github.com/taylorlu/Speaker-Diarization)
