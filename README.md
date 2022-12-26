@@ -22,7 +22,7 @@
 ### Try the Demo Here
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SuyashMore/MevonAI-Speech-Emotion-Recognition/blob/master/src/notebooks/Emotion_Recognition_Demo.ipynb)
 
-# Detection-of-emotion-from-different-speakers-in-audio-segment
+# Detection-of-emotion-from-multiple-speakers-in-audio-segment
 
 //Desribtion about project  //2spaces and enter  
 //Decribe about PM
