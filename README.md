@@ -25,9 +25,8 @@
 //Decribe about PM
 
 
-# Project Management Plan  
-  
- Project Summary  
+ ## Project Management Plan
+ ##### Project Summary: [Project Summary](PMP-PLAN/A-PROJECT_SUMMARY.md)
  Project summary is the describtion of the objective of the project and the details of members.  
    
  Project Planning     
