@@ -14,13 +14,13 @@ We change the way of how people think about AI and change their life habit.
 
 <img src="assets/quek.jpg" width="200" height="auto" />
 
-**QUEK YAO JING**
+**AINA KHAIRINA**
 
-Resposiblity:
-1. Manage the company staff and organization workflow
-2. Making major corporate decisions 
-3. Manage and allocate the resources of the company
-4. Make sure project meet the dateline
+Obligation:
+1. Control the workforce and operations of the business.
+2. Decision-making for the company in a major.
+3. Organize and distribute the company's resources.
+4. Aim to complete the project by the deadline.
 
 <br>
 
@@ -28,13 +28,13 @@ Resposiblity:
 
 <img src="assets/mervyn.jpeg" width="200" height="auto" />
 
-**MEVRYN LIM ZHE XI**
+**LOO HEN SHEN**
 
-Responsibility:
-1. Report directly to CEO on any project progress and status
-2. Identify risks and threat that might be happened in the company
-3. Aids CEO in attending public events and meet more people on the community
-4. Maintain public relations with other members of the company
+Obligation:
+1. Any project's progress and status should be reported directly to the CEO.
+2. Determine the company's risks and potential threats.
+3. Assists the CEO attend public events and network with more individuals in the neighbourhood.
+4. Uphold mutual respect among the company's employees in the public sphere.
 
 <br>
 
@@ -42,26 +42,10 @@ Responsibility:
 
 <img src="assets/tlh.jpeg" width="200" height="auto" />
 
-**TANG LI HO**
+**RUSYDI NASUTION**
 
-Responsiblity:
-1. Make decision on the car plate recognition technology needed
-2. Create the policy for the company to unsure a safe and secure development and production environment
-3. Communicate with all levels to make sure the ideas and project are able to be delivered
-4. Manage the technical staff available in the company and seprate the task based on their expertise
-
-
-<br>
-
-**CHIEF FINANCIAL OFFICIAL (CFO)**
-
-<img src="assets/wenxiang1.jpeg" width="180" height="auto" />
-
-**TAN WEN XIANG**
-
-Responsiblity:
-1. Ensure the project does not exceed the maximum budget allocations
-2. Do reporting and accounting on the cashflow of the project and company
-3. Communicate with all levels to find out how much budget to be allocated to each department
-4. Report to CEO if there are any budget issues
-5. Procurement Manager
+Obligation:
+1. Make a choice regarding the required detection of emotion from multiple speakers in audio segment technology.
+2. Establish a policy for the business to ensure a secure environment for production and development.
+3. To ensure that the project and the concepts can be delivered, communicate with everyone.
+4. Manage the technical workforce that is on hand at the business and divide the tasks according to their areas of competence.
