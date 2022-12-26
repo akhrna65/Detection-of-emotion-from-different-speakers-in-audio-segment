@@ -21,9 +21,11 @@
 
 # Detection-of-emotion-from-multiple-speakers-in-audio-segment
 
-//Desribtion about project  //2spaces and enter  
-//Decribe about PM
+Speech processing and applications based on human-computer interaction now actively pursue research on the topic of emotion recognition from speech. In order to identify emotions from human speech, an experimental study is conducted in this work. The experiments take into account neutral, angry, joyful, and sorrowful motions.
 
+The project is created by adhering to the PMP in order to better organize the project's lifecycle. The project is managed using a variety of charting tools, including Gantt charts, milestone charts, and work breakdown structures (WBS).
+
+The PMP-Plan created is merely the result of simulation collaboration with outside organizations.
 
  ## Project Management Plan
  ##### Project Summary: [Project Summary](PMP-PLAN/A-PROJECT_SUMMARY.md)
