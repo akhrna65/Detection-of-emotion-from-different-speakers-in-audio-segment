@@ -1,4 +1,4 @@
-# Detection-of-different-speakers-in-audio-segment
+# Detection-of-emotion-from-different-speakers-in-audio-segment
 
 //Desribtion about project  //2spaces and enter  
 //Decribe about PM
