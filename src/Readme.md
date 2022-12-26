@@ -1,10 +1,3 @@
-<!-- ABOUT THE PROJECT -->
-## Detection of Emotion from Multiple Speakers in Audio Segment
-
-<img src="https://i.imgur.com/xaY8Izs.png" alt="Logo">
-
-The primary goal of the project is to use multiple speakers' emotions in a conversation audio as a tool for contact centres to evaluate customer contentment.
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -18,6 +11,13 @@ The primary goal of the project is to use multiple speakers' emotions in a con
   * [Feature Extraction](#Feature-Extraction)
   * [CNN Model](#CNN-Model)
   * [Training the Model](#Training-the-Model)
+
+<!-- ABOUT THE PROJECT -->
+## Detection of Emotion from Multiple Speakers in Audio Segment
+
+<img src="https://i.imgur.com/xaY8Izs.png" alt="Logo">
+
+The primary goal of the project is to use multiple speakers' emotions in a conversation audio as a tool for contact centres to evaluate customer contentment.
 
 ### Requirements
 
