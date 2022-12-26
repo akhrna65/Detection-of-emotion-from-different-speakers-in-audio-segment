@@ -28,7 +28,7 @@ The project is created by adhering to the PMP in order to better organize the pr
 The PMP-Plan created is merely the result of simulation collaboration with outside organizations.
 
  ## Project Management Plan
- ##### Project Summary: [Project Summary](PMP-PLAN/A-PROJECT_SUMMARY.md)
+ ##### [Project Summary](PMP-PLAN/A-PROJECT_SUMMARY.md):
  Project summary is the describtion of the objective of the project and the details of members.  
    
  ##### Project Planning: [Project Planning](PMP-PLAN/B-PROJECT_PLANNING.md)
