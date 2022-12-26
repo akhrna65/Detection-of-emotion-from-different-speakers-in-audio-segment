@@ -1,15 +1,15 @@
-# ABOUT QTMT IT Solution Inc 
-This company is setup by a group of AI enthusiastic students in UTeM. They are passionate in AI software and products and hope to bring AI closer to everyone in the world.
+# ABOUT DEAS Solution Inc 
+A group of eager UTeM students that are interested in AI founded this startup. They are passionate about AI software and products and want to make AI more widely available.
 
-Based in Malaysia, Malacca. 
+BASED IN MALAYSIA, MALACCA. 
 
-## OUR MISSION
-BRING CUTTING EDGE ARTIFICIAL INTELLIGENCE(AI) TECHNOLOGY TO THE COMMUNITY AND DAILY LIFE
+## THE MISSION
+BUILD CONNECTIONS WITH LOCAL COMMUNITIES WHEREVER THE DISCOURSE IS TAKING PLACE.
 
-## Innovation
-We change the way of how people think about AI and change their life habit. 
+## INNOVATION
+THE GAPS IN MENTAL HEALTHCARE ARE GETTING SMALLER BECAUSE TO AI.
 
-## OUR TEAM
+## THE TEAM
 **CHIEF EXECUTIVE OFFICIAL (CEO)**
 
 <img src="assets/quek.jpg" width="200" height="auto" />
