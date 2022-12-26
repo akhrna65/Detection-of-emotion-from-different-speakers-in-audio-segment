@@ -1,3 +1,7 @@
+
+### Try the Demo Here
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SuyashMore/MevonAI-Speech-Emotion-Recognition/blob/master/src/notebooks/Emotion_Recognition_Demo.ipynb)
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
