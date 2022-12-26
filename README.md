@@ -1,3 +1,21 @@
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="#">
+    <img src="https://i.imgur.com/f1TqviT.jpeg" alt="Logo">
+  </a>
+
+  <h3 align="center">MevonAI - Speech Emotion Recognition</h3>
+
+  <p align="center">
+    Identify the emotion of multiple speakers in a Audio Segment 
+    <br />
+    <a href="https://github.com/SuyashMore/MevonAI-Speech-Emotion-Recognition/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/SuyashMore/MevonAI-Speech-Emotion-Recognition/issues">Request Feature</a>
+  </p>
+</p>
+
 # Detection-of-emotion-from-different-speakers-in-audio-segment
 
 //Desribtion about project  //2spaces and enter  
