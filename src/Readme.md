@@ -5,6 +5,19 @@
 
 The primary goal of the project is to use multiple speakers' emotions in a conversation audio as a tool for contact centres to evaluate customer contentment.
 
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Installation](#installation)
+  * [Running the Application](#Running-the-Application)
+* [How it Works](#Here's-how-it-works)
+  * [Speaker Diarization](#Speaker-Diarization)
+  * [Feature Extraction](#Feature-Extraction)
+  * [CNN Model](#CNN-Model)
+  * [Training the Model](#Training-the-Model)
 
 ### Requirements
 
