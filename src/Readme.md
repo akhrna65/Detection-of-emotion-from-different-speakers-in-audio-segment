@@ -1,8 +1,9 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
+* [Detection of Emotion from Multiple Speakers in Audio Segment](#detection-of-emotion-from-multiple-speakers-in-audio-segment)
   * [Built With](#built-with)
+* [Requirements](#requirements)
 * [Getting Started](#getting-started)
   * [Installation](#installation)
   * [Running the Application](#Running-the-Application)
