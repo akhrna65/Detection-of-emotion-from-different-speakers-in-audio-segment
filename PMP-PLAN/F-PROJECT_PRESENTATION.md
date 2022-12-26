@@ -1,2 +1,2 @@
-F. PROJECT PRESENTATION
-Below are the project presentation by QTMT INC.
+#F. PROJECT PRESENTATION
+Below are the project presentation by DEAS INC.
