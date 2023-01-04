@@ -63,29 +63,14 @@ For this system, Convolutional Neural Network is used to identify emotion on the
 https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio    
 - Full Python coding for data training
 https://github.com/SuyashMore/MevonAI-Speech-Emotion-Recognition/blob/master/src/notebooks/2D_Convolution.ipynb
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+--------------------------------
 
 ### Project Result
-Result using Tkinter:
-<img src="assets/tkinter.JPG" width="100%">
+This is the example of the result for different speaker
+![image](https://user-images.githubusercontent.com/121418382/210569980-c3d20969-53f7-4c31-b3a5-88de10e43ceb.png)
+![image](https://user-images.githubusercontent.com/121418382/210570055-01af479f-f188-4c7c-82e2-e89e4f806395.png)
+![image](https://user-images.githubusercontent.com/121418382/210570165-cb62cc87-2b9c-425c-a5bd-342660bcabd2.png)
 
-Result using Web API:
-<img src="assets/9.jpeg" width="100%">
 
 
 <br><br><br>
