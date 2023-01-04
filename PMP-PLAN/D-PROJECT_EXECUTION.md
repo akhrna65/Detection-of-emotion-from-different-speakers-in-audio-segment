@@ -2,7 +2,7 @@
 ## D. EXECUTING THE PROJECT
 ### Project Design and Coding
 Flowchart Design:
-<img src="assets/flowchart.JPG" width="60%">
+<img src=""C:\Users\ainak\OneDrive\Documents\A UTEM 5\AI Project Management\project\flowchart.jpg"" width="60%">
 
  Car Plate Implementation Example
 
