@@ -1,43 +1,63 @@
+
+
 # PROJECT OVERVIEW
 ## D. EXECUTING THE PROJECT
 ### Project Design and Coding
-Flowchart Design:
-<img src=""C:\Users\ainak\OneDrive\Documents\A UTEM 5\AI Project Management\project\flowchart.jpg"" width="60%">
+Flowchart Design:  
 
- Car Plate Implementation Example
+![flowchart](https://user-images.githubusercontent.com/121418382/210502428-1d2eec2c-26a1-4c98-a24a-aafdbbb810df.jpg)
+
+
+ Emotion from Different Speakers in Audio Segment Implementation Example
 
 ### Description of the project coding and implementation
-Libraries and Packages required:
+#### Built With:  
+-Python 3.6.9  
+-Tensorflow-keras  
+-librosa  
 
 
-Car Plate Detection: 
-Firstly, we load our model from the pre-trained which created by sergiomsilva.From our Github repository, two files: wpod-net.h5 and wpod-net.json canbe found. Notifications "loading model successfully..." should be get after this step. 
-<img src="assets/requi.JPG" width="40%">
+#### Getting Started on Emotion of Speakers Detection:  
+#### Installation  
+1. Create Python virtual environment  
+![image](https://user-images.githubusercontent.com/121418382/210504111-bffb83a9-7d3a-4d6b-9a02-e0745623759c.png)  
+  
+2. Close repository  
+git clone https://github.com/akhrna65/Detection-of-emotion-from-different-speakers-in-audio-segment  
+  
+3. Install dependencies  
+ ![image](https://user-images.githubusercontent.com/121418382/210504383-2966c02e-e71e-4724-a06f-87628729f110.png)
+  
+#### Running the Application
 
-Subsequently, we create a function name preprocess_image to read and pre-process our plate images. This function basically reads the parsing image, converts it to RGB (line 3) and normalizes the image data to 0–1 range so it can be compatible with matplotlib. Additionally, we can set resize = True to resize all images to same dimension of (width = 224, height = 224) for visualizing purpose in the next step.
-<img src="assets/1.JPG" width="100%">
 
-In this step, we visualize our vehicle dataset. This dataset contains of 20 vehicle images with plate acquired from 10 different countries (Germany, Vietnam, Japan, Thailand, Saudi, Russia, Korea, Usa, India, China). The following block of code will display plate images and their country names in a figure containing of 5 columns and 4 rows.
-<img src="assets/2.JPG" width="100%">
+1. Add audio files in .wav format for analysis in src/input/ folder  
+2. Run Speech Emotion Recognition using   
+  ![image](https://user-images.githubusercontent.com/121418382/210504590-e306bf5b-2770-43ff-9d9e-e2a5769afda9.png)  
+3. By Default , the application will use the Pretrained Model Available in "src/model/"  
+4. Diarized files will be stored in "src/output/" folder  
+5. Predicted Emotions will be stored in a separate .csv file in src/ folder  
+  
+    
+ #### How the Application Works:  
+ 
 
-Now, function named get_plate which processes the raw image is written, and is sent to our model and return the plate image (LpImg) and its coordinates (cor). If there is no plate founded, the program would warn with an error “No License plate is founded!”. 
-<img src="assets/3.JPG" width="100%">
 
-We draw a bounding box with obtained coordinates of deteced plate. 
-<img src="assets/4.JPG" width="100%">
 
-We perform get_plate function to all vehicle images and plot the returend plate images. 
-<img src="assets/5.JPG" width="100%">
 
-Plate Character Segmentation with OpenCV:
-The image undergoes image processing by converting to grayscale, blur image, image thresholding and dilation. 
-<img src="assets/6.JPG" width="100%">
 
- findContours function of OpenCV is used to identify the coordinates of license character. This function is based on a simple theory: contours is simply curve joining all continuous point (along the boundary) sharing the same color and intensity. We created a function called sort_contours which basically sorts founded contours from left to right. We add another contour filter. Later, we draw bounding with all contours that passes these filters, applies binary thresholding on each determined contours and append them to list crop_characters.
-<img src="assets/7.JPG" width="100%">
 
- Ater having all segmented characters storing in crop_characters. We visualize the with matplotlib using the example code as below. We train Neural Network model which is able to recognize and convert those characters to digital letters.
-<img src="assets/8.JPG" width="100%">
+
+
+
+
+
+
+
+
+
+
+
 
 ### Project Result
 Result using Tkinter:
