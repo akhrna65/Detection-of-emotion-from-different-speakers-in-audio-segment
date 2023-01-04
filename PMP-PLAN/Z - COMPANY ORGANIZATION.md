@@ -12,7 +12,8 @@ THE GAPS IN MENTAL HEALTHCARE ARE GETTING SMALLER BECAUSE TO AI.
 ## THE TEAM
 **CHIEF EXECUTIVE OFFICIAL (CEO)**
 
-<img src= "https://user-images.githubusercontent.com/121418382/210572231-be1e092c-5608-4220-9771-7a9abf7242bb.png" width="200" height="250" />
+<img src= "https://user-images.githubusercontent.com/121418382/210572231-be1e092c-5608-4220-9771-7a9abf7242bb.png" width="200" height="250" />  
+
 **AINA KHAIRINA**
 
 Obligation:
