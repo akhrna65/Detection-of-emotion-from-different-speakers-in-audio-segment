@@ -40,6 +40,9 @@ git clone https://github.com/akhrna65/Detection-of-emotion-from-different-speake
   
     
  #### How the Application Works:  
+   
+ Speaker Diarization
+ 
  
 
 
