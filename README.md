@@ -19,7 +19,7 @@
   </p>
 </p>
 
-# Detection-of-emotion-from-multiple-speakers-in-audio-segment
+# :speaking_head: Detection-of-emotion-from-multiple-speakers-in-audio-segment 
 
 Speech processing and applications based on human-computer interaction now actively pursue research on the topic of emotion recognition from speech. In order to identify emotions from human speech, an experimental study is conducted in this work. The experiments take into account neutral, angry, joyful, and sorrowful motions.
 
