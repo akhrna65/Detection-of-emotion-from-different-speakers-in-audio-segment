@@ -56,7 +56,9 @@ The above image shows the audio waveform, while the image below displays the MFC
     
 #### CNN Model  
 For this system, Convolutional Neural Network is used to identify emotion on the MFCCs. The coding is as below:  
-
+![image](https://user-images.githubusercontent.com/121418382/210566636-c535f13b-9827-4382-969f-e8971f9b34ea.png)
+  
+  
 
 
 
