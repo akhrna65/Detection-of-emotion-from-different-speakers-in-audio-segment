@@ -12,8 +12,7 @@ THE GAPS IN MENTAL HEALTHCARE ARE GETTING SMALLER BECAUSE TO AI.
 ## THE TEAM
 **CHIEF EXECUTIVE OFFICIAL (CEO)**
 
-<img src="assets/quek.jpg" width="200" height="auto" />
-
+<img src= "https://user-images.githubusercontent.com/121418382/210572231-be1e092c-5608-4220-9771-7a9abf7242bb.png" width="200" height="250" />
 **AINA KHAIRINA**
 
 Obligation:
@@ -26,7 +25,7 @@ Obligation:
 
 **CHIEF OPERATING OFFICIAL (COO)**
 
-<img src="assets/mervyn.jpeg" width="200" height="auto" />
+<img src="https://user-images.githubusercontent.com/121418382/210573428-09d718c2-79e3-44d2-9d45-cb265b608464.png" width="200" height="250" />
 
 **LOO HEN SHEN**
 
