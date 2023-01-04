@@ -8,13 +8,13 @@ Flowchart Design:
 ![flowchart](https://user-images.githubusercontent.com/121418382/210502428-1d2eec2c-26a1-4c98-a24a-aafdbbb810df.jpg)
 
 
- Emotion from Different Speakers in Audio Segment Implementation Example
+### Emotion from Different Speakers in Audio Segment Implementation Example
 
 ### Description of the project coding and implementation
 #### Built With:  
--Python 3.6.9  
--Tensorflow-keras  
--librosa  
+- Python 3.6.9  
+- Tensorflow-keras  
+- librosa  
 
 
 #### Getting Started on Emotion of Speakers Detection:  
@@ -37,13 +37,25 @@ git clone https://github.com/akhrna65/Detection-of-emotion-from-different-speake
 3. By Default , the application will use the Pretrained Model Available in "src/model/"  
 4. Diarized files will be stored in "src/output/" folder  
 5. Predicted Emotions will be stored in a separate .csv file in src/ folder  
+
+-------------------------------------  
+    
+ ### How the Application Works:  
+   
+ #### Speaker Diarization
+ 
+Speaker diarization is the division of a source audio stream into homogenous parts based on the identification of the speaker. In addition, the ability to structure the audio stream for different speakers, it enhanced the readability of the automatic speec transcription. Moreover, it also can provide the speaker's true identity when using the speaker recognition system. The first goal is finding speaker transition points in an audio stream and the second goal is categorize speech fragments based on the speaker's characteristics.  
   
     
- #### How the Application Works:  
-   
- Speaker Diarization
- 
- 
+#### Feature Extraction  
+
+Since its invention in the 1980s, MFCCs has been the cutting-edge feature while doing Speech Recognition tasks. The kind of the sound can be determine by the its shape. The generated phoneme should be able to appropriately represented if the shape can be precisely established. The short time power spectrum envelope exhibits the form of the vocal tract, and it is the responsibility of MFCCs to accurately reflect this envelope.  
+![image](https://user-images.githubusercontent.com/121418382/210562691-3e64d9de-2b3a-40e7-b959-db94e5930920.png)  
+The above image shows the audio waveform, while the image below displays the MFCC output after conversion, which will be used to run the CNN model.  
+  
+    
+#### CNN Model  
+For this system, Convolutional Neural Network is used to identify emotion on the MFCCs. The coding is as below:  
 
 
 
