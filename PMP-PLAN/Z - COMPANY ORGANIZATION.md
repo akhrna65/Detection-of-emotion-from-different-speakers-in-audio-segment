@@ -17,9 +17,9 @@ THE GAPS IN MENTAL HEALTHCARE ARE GETTING SMALLER BECAUSE TO AI.
 **AINA KHAIRINA**
 
 Obligation:
-1. Control the workforce and operations of the business.
-2. Decision-making for the company in a major.
-3. Organize and distribute the company's resources.
+1. Control the workforce and operations of the project.
+2. Decision-making for the team in a major.
+3. Organize and distribute the team's resources.
 4. Aim to complete the project by the deadline.
 
 <br>
@@ -32,9 +32,9 @@ Obligation:
 
 Obligation:
 1. Any project's progress and status should be reported directly to the CEO.
-2. Determine the company's risks and potential threats.
+2. Determine the team's risks and potential threats.
 3. Assists the CEO attend public events and network with more individuals in the neighbourhood.
-4. Uphold mutual respect among the company's employees in the public sphere.
+4. Uphold mutual respect among the team's members in the public sphere.
 
 <br>
 
@@ -46,6 +46,6 @@ Obligation:
 
 Obligation:
 1. Make a choice regarding the required detection of emotion from multiple speakers in audio segment technology.
-2. Establish a policy for the business to ensure a secure environment for production and development.
+2. Establish a policy for the project to ensure a secure environment for production and development.
 3. To ensure that the project and the concepts can be delivered, communicate with everyone.
-4. Manage the technical workforce that is on hand at the business and divide the tasks according to their areas of competence.
+4. Manage the technical workforce that is on hand at the project and divide the tasks according to their areas of competence.
