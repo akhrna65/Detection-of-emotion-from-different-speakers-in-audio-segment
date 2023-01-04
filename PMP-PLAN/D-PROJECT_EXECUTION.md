@@ -1,14 +1,14 @@
 
 
 # PROJECT OVERVIEW
-## D. EXECUTING THE PROJECT
+## D. EXECUTING THE PROJECT 
 ### Project Design and Coding
 Flowchart Design:  
 
 ![flowchart](https://user-images.githubusercontent.com/121418382/210502428-1d2eec2c-26a1-4c98-a24a-aafdbbb810df.jpg)
 
 
-### Emotion from Different Speakers in Audio Segment Implementation Example
+### 	:nerd_face: Emotion from Different Speakers in Audio Segment Implementation Example :studio_microphone:
 
 ### Description of the project coding and implementation
 #### Built With:  
