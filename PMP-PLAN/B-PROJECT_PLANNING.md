@@ -3,7 +3,7 @@
 
 ### Project Management Life cycle
 
-The project management life cycle is represented and documented in the form of Gantt Chart which allows QTMT staff to follow the guidelines and achieved the milestone from time to time. The project life cycle WBS breakdown the task and work of every members such as project manager into several modules. Every member have their own roles and part in every stage of the lifecyle based on the constructed WBS.
+The Gantt Chart used to describe and document the project management life cycle enables the team members to consistently follow the guidelines and reach the milestones. The cycle of a project WBS divides each member's role and work into a number of modules. Based on the created WBS, each member has their own responsibilities and contributions to make at each phase of the lifecycle.
 
 Project management WBS is shown in the Gantt Chart below:
 
