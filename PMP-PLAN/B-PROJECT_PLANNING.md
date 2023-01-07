@@ -6,13 +6,18 @@
 The Gantt Chart used to describe and document the project management life cycle enables the team members to consistently follow the guidelines and reach the milestones. The cycle of a project WBS divides each member's role and work into a number of modules. Based on the created WBS, each member has their own responsibilities and contributions to make at each phase of the lifecycle.
 
 Project management WBS is shown in the Gantt Chart below:
+![image](https://user-images.githubusercontent.com/121418382/211159193-250b4e49-9d63-4ebd-ba61-930bc7107f17.png)  
+![image](https://user-images.githubusercontent.com/121418382/211159235-a7d472b7-f543-4989-ba5a-7d3e7afc6739.png)  
+![image](https://user-images.githubusercontent.com/121418382/211159324-e2d09273-90fb-4d20-966c-1255353bf7fe.png)
+![image](https://user-images.githubusercontent.com/121418382/211159360-2a127969-ac5c-44df-aa3f-3f55edb14731.png)
+![image](https://user-images.githubusercontent.com/121418382/211159377-43a8a649-8da5-4e8c-b014-64d8d276a3ee.png)
+![image](https://user-images.githubusercontent.com/121418382/211159394-1e684964-ac73-4359-b195-07d85b96ed60.png)
 
-<img src="assets/planning/WBS1.png" width="100%">
-<img src="assets/planning/WBS2.png" width="100%">
+As for the Detection of Different Speakers in Audio Segment Project, the system WBS is shown below. This WBS is designed to segment the project's technical component into various sections such as initiating, project plannning, execution, controlling and close project.
+  
+![image](https://user-images.githubusercontent.com/121418382/211161479-343907ff-e1c2-445e-8c7c-fb754636216a.png)
 
-As for the Car Plate Recognition Project, the system WBS are represented as follow. This WBS is constructured to breakdown the technical part of the project into several modules such as interface design, API management, Car Plate Detection and Car Plate Recognition: 
 
-<img src="assets/planning/WBS-Prj.png" width="100%">
 
 ### Scope
 A work breakdown structure (WBS) is created to map all the necessary tasks and develop the process which the WBS will be maintained and approved.
@@ -21,9 +26,9 @@ In this car plate recognition project, we need to identify the scope of the proj
 
 ### Risk Identification Chart (Quality, Cost, Time)
 
-| Control Element | What is likely to go wrong? | How and when will I know? | What will I do about it? |
+| Control Element | Wrong Possibilities | Time and Ways to Detect | Risk Prevention  |
 |-----|----|-------|-----|
-|Quality <br> (Poor attitude toward quality; substandard design, materials, and workmanship; inadequate quality assurance program)|1. Inadequate Quality Assurance Program: The system confused with car plate number recognition <br> (Ex. digit 0 and letter o) <br><br> 2. Inadequate Quality Assurance Program: The quality of the AI model is biased towards a certain design of the car plate.  |How: The output result always segmented the wrong part of the car plate <br> <br> When: The quality problem of will be determined during the unit testing phase|Assign one member to keep on collecting the data day to day and increased the dataset until a satisfied result is determined.|
+|Quality <br> (Having a poor quality attitude; design, materials, and skills; insufficient programmes for quality assurance)|1. Inadequate Quality Assurance Program: The system confused with different speaker emotion detection <br> (Ex. Different person has similar voice) <br><br> 2. Inadequate Quality Assurance Program: The quality of the AI model not support speakers with low voice tones.  |Way: The output categorized wrong speaker and emotion <br> <br> Time: The risk found during testing phase|Assign one person to continue daily data collection and expand the dataset until a satisfactory outcome is found.|--------------------------------------------------------
 |Cost <br> (Estimating errors; inadequate productivity, cost, change, or contingency)|1. Contigency: The costing of the server will be spike if one of the developer forget to shutdown the EC2 instance when not using it. <br><br> 2. Inadequate productivity: Team members are affected by covid-19 and unable to deliver what they suppoosed to deliver which lead to extra cost need to allocated for the cloud servers. |How: The monthly bills shows unexpected extra charged to the bills.<br><br>When: The problem most probably will be encountered during the project execution and project implementation.|Notify the owner through email or discord whenever budget exceed threshold in the AWS cloud computing service.
 |Time <br> (Errors in estimating time or resource availability; errors in determining the critical path; poor allocation and management of float; early release of competitive products) | 1. Project not able to reach the milestone set  as described in the Gantt Chart. <br><br> 2. Erros in estimating resource availability: There are not enough server to be used to run the car plate recognition model training  |How: The members are stuck with a certain problem and drag all the other team members <br><br> When: The problem will be encountered during the project excution and monitoring phase.| Ask support from the other team member and switch their task or job to other job to avoid him/her to stuck in the problem loop.|
 
