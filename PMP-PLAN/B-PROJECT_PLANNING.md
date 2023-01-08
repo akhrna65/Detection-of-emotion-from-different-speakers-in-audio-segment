@@ -32,7 +32,12 @@ In this car plate recognition project, we need to identify the scope of the proj
 |Cost <br> (Estimating errors; , unsatisfactory output, cost, change, or turning point)|1. Turning Point: The cost to repair the system will be charged if the server got hacked and customer's information revealed. <br><br> 2. Unsatisfactory Output: It might be difficult for team members to complete tasks by the deadline when natural disasters like earthquakes and floods occur which lead to additional expenses for allocation in cloud serves.|Way: The company's financial flow shows a sharp rise in cost .<br><br>Time: The issue will most likely arise during project execution and project implementation.|Contact and discuss with the customer whenever the budget exceed.  
 |Time <br> (errors in predicting the availability of resources or time; error occur during identifying the crucial route; lack float management and allocation ; prompt launch of competing products) | 1. Errors in predicting availability of resources or time: Task progress exceed the target milestone shown in Gantt Chart. <br><br> 2. Prompt launch of competing products: The products unable to gives what they promises because lack of time.|Way: Since all assigned tasks are necessary to finish the project, it will have an impact on all members if one member's work progress falls behind the milestone. <br><br> Time: During the project execution and monitoring phase, the issue will arise.| Ask or voice out problem to get help from other members and learn to give the best contribution and progress outcome to the project team.|
 
-### Responsibility Assignment Matrices (RAM)
+### Responsibility Assignment Matrices (RAM)  
+RAM are needed to structure and make the project more clear. The matrix outlines the task provide for the members in order to finish the project.  
+R-Responsible: The person that will carry out the task  
+A-Accountable: The person that asssign the task to others and signs off after task complete  
+C-Consult: The person that give expert advice or involve on review af finieshed project  
+I-Inform: The person that inform the accountable person if any task complete
 
 <img src="assets/planning/RAM1.png" width="100%">
 
