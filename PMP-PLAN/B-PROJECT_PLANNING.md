@@ -37,11 +37,13 @@ RAM are needed to structure and make the project more clear. The matrix outlines
 R-Responsible: The person that will carry out the task  
 A-Accountable: The person that asssign the task to others and signs off after task complete  
 C-Consult: The person that give expert advice or involve on review af finieshed project  
-I-Inform: The person that inform the accountable person if any task complete
+I-Inform: The person that inform the accountable person if any task complete    
 
-<img src="assets/planning/RAM1.png" width="100%">
+![image](https://user-images.githubusercontent.com/121418382/211182120-63736f6d-6e80-4cb4-9e0c-3ab1b7865b2d.png)
+![image](https://user-images.githubusercontent.com/121418382/211182130-861cf9f8-4d3f-492d-af62-3c80d4f654a2.png)
+![image](https://user-images.githubusercontent.com/121418382/211182155-8a6b3f85-4a0a-424f-8816-3da14d7bbde3.png)
 
-<img src="assets/planning/RAM2.png" width="100%"> 
+
 
 |Roles|<div style="width: 150px"> Person In Charge </div>|Responsibilities|
 |:-----:|:------:|------|
