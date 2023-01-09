@@ -5,7 +5,7 @@
 <br>
 
 #### 1. Customer Acceptance Form
-<img src="image/ACCEPTANCE COMPLETION FORM.png" width="100%">
+<img src="image/ACCEPTANCE COMPLETION FORM.png" width="70%">
 
 #### 2. Lessons Learned Document
 <img src="assets/closing/lessons_learned.svg" width="100%">
