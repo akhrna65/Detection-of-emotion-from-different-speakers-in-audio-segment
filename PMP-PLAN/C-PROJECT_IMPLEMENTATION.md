@@ -9,24 +9,24 @@ For the hardware, our group uses the laptop which consists of intel core i5 and 
 For the software, our group used python programming language to implement the code for intelligent module in recognizing car plate and PHP programming language to design the website and database connection. 
 
 #### Intelligent System Architecture:
-The proposed neural network is WPOD-Net, which is a type of convolution neural network.
-WPOD-Net architecture:
-<img src="assets/implementation/architecture.png" width="100%">
+The proposed neural network is deep naural network, which is a type of convolution neural network.
+neural network architecture:
+<img src="![image](https://user-images.githubusercontent.com/120865373/211635992-382086b9-3d2b-4f10-93da-8c91f6016934.png)
+" width="100%">
 
 #### Outcomes of the system
-2 main steps will be applied in our system, which is license plate detection and character recognition. Given an input image, the first steps are to detect the license plate using Warped Planar Object Detection Network (WPOOD-Net) and regresses one affine transformation per detection, allowing a rectification of the license plate area to a rectangle resembling a frontal view. These positive and rectified detections are fed to an OCR network for final character recognition. 
-<img src="assets/implementation/exampleResult.png" width="100%">
+the main steps that will be applied in our system, which is audio detection. Given the input audio, the first process are to use speaker diarization for finding speaker change points in an audio stream, using feature Extraction and Use Convolutional Neural Network to recognize emotion.
+<img src="![image](https://user-images.githubusercontent.com/120865373/211637202-602f71e3-78aa-49bd-b984-f4c5a2cdabef.png)" width="100%">
 
 ### Tasks and Estimated Costs
 
 | Task |  Estimated Costs | Notes |
 |-----|----|----|
-|   Server Maintenance         |$24000                         |  Monthly Cloud Server      |      
-|   Construction supervision   |$30000                         | Supervision on the project | 
-|   Cultural resources         |$72000                         |  Investigate and evaluate undertaking                                                 |                              |
-|   Equipment and equipment use|$800                           | Equipment preparation and setup                                                       |                              |
-|   Project signs              |$400                           |  Installation of project signs     |                            |
-|   TOTAL                      |$127200                        |  Estimated     |                              |
+|   Server Maintenance         |RM 4000                         |  Monthly Cloud Server      |      
+|   Resources         |RM 2000                         |  Investigate and evaluate undertaking                                                 |                              |
+|   Equipment     |RM 1000                           | Equipment preparation and setup                                                       |                              |
+|   Project signs              |RM 800                           |  Installation of project signs     |                            |
+|   TOTAL                      |RM7800                        |  Estimated     |                              |
 
 ### Milestone Chart
 #### Microsoft Project:
