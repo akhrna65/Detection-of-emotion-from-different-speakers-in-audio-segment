@@ -11,12 +11,12 @@ For the software, our group used python programming language to implement the co
 #### Intelligent System Architecture:
 The proposed neural network is deep naural network, which is a type of convolution neural network.
 neural network architecture:
-<img src="![image](https://user-images.githubusercontent.com/120865373/211635992-382086b9-3d2b-4f10-93da-8c91f6016934.png)
-" width="100%">
+![image](https://user-images.githubusercontent.com/120865373/211635992-382086b9-3d2b-4f10-93da-8c91f6016934.png)
+" width="100"
 
 #### Outcomes of the system
 the main steps that will be applied in our system, which is audio detection. Given the input audio, the first process are to use speaker diarization for finding speaker change points in an audio stream, using feature Extraction and Use Convolutional Neural Network to recognize emotion.
-<img src="![image](https://user-images.githubusercontent.com/120865373/211637202-602f71e3-78aa-49bd-b984-f4c5a2cdabef.png)" width="100%">
+![image](https://user-images.githubusercontent.com/120865373/211637202-602f71e3-78aa-49bd-b984-f4c5a2cdabef.png)" width="100%"
 
 ### Tasks and Estimated Costs
 
