@@ -17,7 +17,7 @@ neural network architecture:
 #### Outcomes of the system
 the main steps that will be applied in our system, which is audio detection. Given the input audio, the first process are to use speaker diarization for finding speaker change points in an audio stream, using feature Extraction and Use Convolutional Neural Network to recognize emotion.
 
-![image](https://user-images.githubusercontent.com/120865373/211637202-602f71e3-78aa-49bd-b984-f4c5a2cdabef.png)" width="100%"
+![image](https://user-images.githubusercontent.com/120865373/211637202-602f71e3-78aa-49bd-b984-f4c5a2cdabef.png)
 
 ### Tasks and Estimated Costs
 
@@ -31,13 +31,9 @@ the main steps that will be applied in our system, which is audio detection. Giv
 
 ### Milestone Chart
 #### Microsoft Project:
-<img src="assets/implementation/QTMT Gantt Chart WBS_Page_1.png" width="100%">
-<img src="assets/implementation/QTMT Gantt Chart WBS_Page_2.png" width="100%">
-<img src="assets/implementation/QTMT Gantt Chart WBS_Page_3.png" width="100%">
+![Comprehensive Project Plan Template](https://user-images.githubusercontent.com/120865373/211641713-f4ad9f45-ae5b-4d28-baa1-51da7acb2e95.png)
 
-#### Power Point:
-The flags indicate the milestones of our car plate recognition project
-<img src="assets/implementation/Time Management Gantt Chart.png" width="100%">
+
 
 <br><br><br>
 ##### Next: [Project Execution](D-PROJECT_EXECUTION.md)
