@@ -2,7 +2,7 @@
 
 ## A. DEFINING THE PROJECT
 ###  Project Summary
-Recognition of emotion expressed by a customer inspoken speech is gaining importance because of the expansionof services industry and the need to identify the sentiment ofthe customer which are not available through a text channel.In this paper, we propose a simple yet effective method toenhance the recognition accuracy of emotion in spoken speech.The approach is based on segmenting the audio into smaller, ﬁxedlength, segments and recognizing the emotion of each segmentindividually before fusing the identiﬁed emotions to mark theemotion of the audio ﬁle. We show through experiments theenhanced performance of the our method on a freely availableemotion database.
+Recognition of emotion expressed by a customer inspoken speech is gaining importance because of the expansionof services industry and the need to identify the sentiment ofthe customer which are not available through a text channel.In this paper, we propose a simple yet effective method toenhance the recognition accuracy of emotion in spoken speech.The approach is based on segmenting the audio into smaller, ﬁxedlength, segments and recognizing the emotion of each segmentindividually before fusing the identiﬁed emotions to mark theemotion of the audio ﬁle. We show through experiments theenhanced performance of the our method on a freely available emotion database.
 
 
 ### Project Name: DETECTION OF EMOTION FROM MULTIPLE SPEAKERS IN AUDIO SEGMENT
