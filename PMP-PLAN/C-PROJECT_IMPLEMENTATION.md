@@ -6,7 +6,7 @@ Hardware Requirement:
 For the hardware, our group uses the laptop which consists of intel core i5 and 8GB RAM to conduct our project.
 
 #### Software Requirement:
-For the software, our group used python programming language to implement the code for intelligent module in recognizing car plate and PHP programming language to design the website and database connection. 
+For the software, use windows 10 and used python programming language to implement the code for intelligent module in detecting emotion.
 
 #### Intelligent System Architecture:
 The proposed neural network is deep naural network, which is a type of convolution neural network.
@@ -23,11 +23,11 @@ the main steps that will be applied in our system, which is audio detection. Giv
 
 | Task |  Estimated Costs | Notes |
 |-----|----|----|
-|   Server Maintenance         |RM 4000                         |  Monthly Cloud Server      |      
-|   Resources         |RM 2000                         |  Investigate and evaluate undertaking                                                 |                              |
-|   Equipment     |RM 1000                           | Equipment preparation and setup                                                       |                              |
-|   Project signs              |RM 800                           |  Installation of project signs     |                            |
-|   TOTAL                      |RM7800                        |  Estimated     |                              |
+|   Server Maintenance         |RM 40000                         |  Monthly Cloud Server      |      
+|   Resources         |RM 20000                         |  Investigate and evaluate undertaking                                                 |                              |
+|   Equipment     |RM 50000                           | Equipment preparation and setup                                                       |                              |
+|   Project signs              |RM 10000                           |  Installation of project signs     |                            |
+|   TOTAL                      |RM120000                        |  Estimated     |                              |
 
 ### Milestone Chart
 #### Microsoft Project:
