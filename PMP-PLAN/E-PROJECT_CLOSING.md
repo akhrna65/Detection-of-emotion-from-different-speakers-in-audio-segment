@@ -25,8 +25,13 @@ We tested the accuracy of the system when the project is finish. The system accu
 
 The project is following Gantt chart scheduled as every memeber doing all the task accordingly. So, the actual progress fits the original schedule.
 
-<img src="assets/planning/WBS1.png" width="100%">
-<img src="assets/planning/WBS2.png" width="100%">
+![image](https://user-images.githubusercontent.com/120865373/211661392-9a6122cc-2d0b-466e-9285-f66ba109f988.png)
+![image](https://user-images.githubusercontent.com/120865373/211661443-6e1f7f29-e04c-45c3-9353-3f5bc8b5a76a.png)
+![image](https://user-images.githubusercontent.com/120865373/211661494-40e098c3-93cd-40fb-96f2-5c7caadbf568.png)
+![image](https://user-images.githubusercontent.com/120865373/211661542-b1405597-ae9b-46a8-89ac-f742e3abcf90.png)
+![image](https://user-images.githubusercontent.com/120865373/211661571-b5a8a952-4190-4d03-a9fd-be49a554d8b8.png)
+![image](https://user-images.githubusercontent.com/120865373/211661606-0f40a38b-c9a8-4cb3-a529-cb77ecf4f371.png)
+
 
 **4.0 ORIGINAL AND ACTUAL BUDGET**
 
