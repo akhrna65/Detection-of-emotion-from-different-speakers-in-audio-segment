@@ -51,5 +51,4 @@ The PMP-Plan created is merely the result of simulation collaboration with outsi
 
 ## Project Demonstration
      
- TRY: BY RUSYDI
  
