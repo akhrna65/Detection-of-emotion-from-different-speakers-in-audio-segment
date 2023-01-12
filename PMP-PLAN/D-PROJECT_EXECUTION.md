@@ -5,8 +5,7 @@
 ### Project Design and Coding
 Flowchart Design:  
 
-![flowchart](https://user-images.githubusercontent.com/121418382/210502428-1d2eec2c-26a1-4c98-a24a-aafdbbb810df.jpg)
-
+![image](https://user-images.githubusercontent.com/120865373/212015717-2aa5ef5a-e77c-4ff1-94d0-8b52eee7b6f0.png)
 
 ### 	:nerd_face: Emotion from Different Speakers in Audio Segment Implementation Example :studio_microphone:
 
