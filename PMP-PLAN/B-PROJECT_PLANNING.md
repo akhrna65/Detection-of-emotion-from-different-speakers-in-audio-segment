@@ -22,7 +22,7 @@ As for the Detection of Different Speakers in Audio Segment Project, the system 
 ### Scope
 A work breakdown structure (WBS) is created to map all the necessary tasks and develop the process which the WBS will be maintained and approved.
 
-In this emotion detection system, we need to identify the scope of the project. For instance, the project will not detect other language other than english. For example, when we inuput audio with other language than english the accuracy will be low. Besides, this project scope down the limit of the project with only english audio. Therefore, country such as Japan and Thailand might not be able to use this system.
+In this emotion detection system, we need to identify the scope of the project. For instance, the project will not detect other language other than english. For example, when we inuput audio with other language than english the accuracy will be low. Besides, this project scope down the limit of the project with only english audio. Therefore, country such as Japan and italy might not be able to use this system.
 
 ### Risk Identification Chart (Quality, Cost, Time)
 
